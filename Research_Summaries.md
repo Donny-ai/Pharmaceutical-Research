@@ -1,4 +1,5 @@
 # Summaries of Pubmed Research on Adderall
+Using T5 I generated summaries of each page for both research papers.
 ### Key Takeaways:
 * Online pharmacies offering adderrall are fraught with illegitimacy
 * Most illegitimate online pharmacies offering adderall experience low traffic, and the majority of them provide at least some warnings, precautions, and drug information.

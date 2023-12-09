@@ -12,8 +12,8 @@ ______
 I decided to reccommend Focusil.
 
 ### Potential logos were generated for Focusil:
-![Logo 1](Output/new F.png)
-![Logo 2](Output/simple F.png)
+![Logo1](Output/new F.png)
+![Logo2](Output/simple F.png)
 
 ### The following marketing images were generated for Focusil:
 ![Marketing Image 1](Output/marketing3.png)
@@ -22,6 +22,7 @@ I decided to reccommend Focusil.
 ![Marketing Image 4](Output/marketing13.png)
 ______
 ## Summaries of Pubmed Research on Adderall
+Using T5 I generated summaries of each page for both research papers.
 ### Key Takeaways:
 * Online pharmacies offering adderrall are fraught with illegitimacy
 * Most illegitimate online pharmacies offering adderall experience low traffic, and the majority of them provide at least some warnings, precautions, and drug information.
@@ -47,9 +48,9 @@ ______
 ![Female Respondents](Output/female_reviews.png)
 ![Elderly Female Respondents](Output/elderly_female_reviews.png)
 ![Female Respondents age 3-6](Output/baby_girl_reviews.png)
-* There is only one respondent in this category with a score of 0, this drug is likely a poor choice for this age range.
 ![Female Respondents age 7-12](Output/girl_reviews.png)
-* Respondents in this cateogry are split between high and low scores, caution should be advised before prescribing for this cohort.
+* There is only one respondent in the female age 3-6 category. With a score of 0, this drug is likely a poor choice for this age range.
+* Respondents in the female age 3-7 category are split between very high and very low scores, caution should be advised before prescribing for this cohort.
 
 
 
