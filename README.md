@@ -12,8 +12,8 @@ ______
 I decided to reccommend Focusil.
 
 ### Potential logos were generated for Focusil:
-![Logo1](Output/new F.png)
-![Logo2](Output/simple F.png)
+![Logo 1](Output/new_F.png)
+![Logo 2](Output/simple_F.png)
 
 ### The following marketing images were generated for Focusil:
 ![Marketing Image 1](Output/marketing3.png)
